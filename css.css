@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-between;
     background-color:#92e4f565;
-    padding: 20px;
+    padding: 30px;
  
 }
 
@@ -19,13 +19,14 @@
 }
 .body{
     margin: 30px;
-    border: 2px solid red;
+    
 }
 .nav{
     display: flex;
     justify-content: space-between;
     padding-top: 30px;
     padding-bottom: 30px;
+    padding: 30px;
    
 }
 .nav ul{
@@ -46,6 +47,7 @@
 .navber{
      display: flex;
     justify-content: space-between;
+    padding: 30px;
 }
 .best{
      padding-top: 30px;
@@ -89,6 +91,7 @@
     margin-top: 100px;
     display: flex;
     gap: 40px;
+    padding: 30px;
 
 }
 .future{
@@ -102,7 +105,7 @@
 .service{
     position: absolute;
     left: 200px;
-    top: 85rem;
+    top: 80rem;
     display: flex;
     align-items: center;
     background: #ffffff;
@@ -187,14 +190,8 @@
 }
 .our{
   
-    /* margin-right: 40%; */
-    /* padding-bottom: 60%; */
-    /* padding-left: 30px; */
     padding-top: 50px;
-    /* background-color: #FFF5F6; */
 
-
-  
 }
 .car{
     display: flex;
@@ -259,6 +256,7 @@
 .img-container{
     padding-top: 100px;
     padding-bottom: 50px;
+    padding: 30px;
 }
 .pro img{
     border-radius: 20px;
@@ -267,6 +265,7 @@
     background: #FFF5F6;
     border-radius: 30px;
     padding: 85px 80px 80px;
+
 }
 .lisa{
     text-align: center;
@@ -292,6 +291,7 @@
     padding-top: 100px;
      display: flex; 
     gap: 20px;
+    padding: 30px;
 }
 .com{
  display: grid;
@@ -306,7 +306,7 @@
     margin-top: 100px;
     justify-content: space-between;
     display: flex;
-    padding: 40px;
+    padding: 30px;
 }
 .brand{
     display: flex;
@@ -323,6 +323,7 @@
 .last{
     background-color: #87eecf75;
     padding-bottom: 40px;
+    padding: 30px;
       
 }
 .all{
