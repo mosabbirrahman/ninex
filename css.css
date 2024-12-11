@@ -300,3 +300,36 @@
     
     
 }
+.get{
+    padding-top: 40px;
+    background-color:#FFF5F6; 
+    margin-top: 100px;
+    justify-content: space-between;
+    display: flex;
+    padding: 40px;
+}
+.brand{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.foter{
+    display: flex;
+    justify-content: space-between;
+}
+.ser{
+    font-size: 30px;
+}
+.last{
+    background-color: #87eecf75;
+    padding-bottom: 40px;
+      
+}
+.all{
+    text-align: center;
+}
+.bran{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
