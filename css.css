@@ -185,3 +185,52 @@
     justify-content: center;
     padding-left: 300px;
 }
+.our{
+  
+    /* margin-right: 40%; */
+    /* padding-bottom: 60%; */
+    /* padding-left: 30px; */
+    padding-top: 50px;
+    /* background-color: #FFF5F6; */
+
+
+  
+}
+.car{
+    display: flex;
+    gap: 30px;
+    box-sizing: border-box;
+    padding-left: 100px;
+    padding-top: 20px;
+  
+}
+.carr{
+    display: flex;
+    gap: 30px;
+    box-sizing: border-box;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.read-more{
+    font-size: 14px;
+    line-height: 1;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    color: #130F49;
+    margin-top: 25px;
+}
+.bus{
+ 
+    text-align: center;
+}
+.team{
+    display: flex;
+    gap: 100px;
+ justify-content: center;
+ text-align: center;
+}
+.position{
+    margin-top: 100px;
+}
