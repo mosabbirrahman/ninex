@@ -233,4 +233,70 @@
 }
 .position{
     margin-top: 100px;
+    padding-bottom: 70px;
+}
+.contant{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background: #D9F4FF;
+}
+.border{
+
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.pro{
+    display: flex;
+    gap: 20px;
+   
+}
+.img-container{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.pro img{
+    border-radius: 20px;
+}
+.studio{
+    background: #FFF5F6;
+    border-radius: 30px;
+    padding: 85px 80px 80px;
+}
+.lisa{
+    text-align: center;
+}
+.mike{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.holder{
+    display: flex;
+    gap: 30px;
+}
+.name{
+    padding-top: 20px;
+}
+.testi img{
+    border-radius: 40px;
+}
+.asked{
+    padding-top: 100px;
+     display: flex; 
+    gap: 20px;
+}
+.com{
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+    
+    
 }
